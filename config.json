@@ -1,0 +1,44 @@
+{
+  "ads_config": {
+    "ad_waterfall": [
+      "admob",
+      "unity"
+    ],
+    "ad_time": 10,
+    "ad_model": [
+      {
+        "name": "admob",
+        "app_id": "ca-app-pub-4463883562173773~7628426006",
+        "banner_id": "ca-app-pub-4463883562173773/4007270419",
+        "popup_id": "ca-app-pub-4463883562173773/7369405703",
+        "reward_id": "ca-app-pub-4463883562173773/2117079028"
+      },
+      {
+        "name": "unity",
+        "app_id": "3977029",
+        "banner_id": "banner",
+        "popup_id": "video",
+        "reward_id": "rewardedVideo"
+      }
+    ]
+  },
+  "fanpage_config": {
+    "fanpage": [
+      {
+        "link": "https://www.facebook.com/groups/2321816274773035/",
+        "target": "us",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/2321816274773035/",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/2321816274773035/",
+        "target": "def",
+        "enable": true
+      }
+    ]
+  }
+}
